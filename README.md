@@ -1,4 +1,4 @@
 DartSandbox
 ===========
 
-Repository for learning dart
+Repository for learning HTML, CSS, JS, PHP, SQL
