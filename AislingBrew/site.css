@@ -65,7 +65,22 @@ ul#menu li a:hover {
   color: white;
   background-color: black;
 }
+
+/* The following is for the login page */
+
+body#login {
+  background-color: #000000;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 16px;
+  color: white;
+  text-align: center;
 }
-}
-}
+
+h1#login {
+  font-family: "Special Elite", sans-serif;;
+  border-bottom: 3px solid #4b0082;
+  text-align: left;
+  color: #4b0082;
+  font-size: 100px;
+  
 }
